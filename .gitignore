@@ -1,0 +1,1 @@
+# Ignorar arquivos temporarios e pastas comuns *.log *.tmp *.bak *.swp .DS_Store Thumbs.db node_modules/ dist/ .env . idea/ .vscode/ *.class *.exe *.dll *.out *.pyc *.jar
